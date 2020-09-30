@@ -1,7 +1,7 @@
 # Introdução
 
 Bem vindo(a) ao Bootcamp, no qual foi feito com muito carinho para você aprender e evoluir de forma exponencial 
-(#aprendizadoAcimaDoPlano), pois afinal somos Zuppers (#ZupperAjudaZupper)!
+**#aprendizadoAcimaDoPlano**, pois afinal somos Zuppers **#ZupperAjudaZupper**!
 
 O programa foi criado para que você consiga realmente treinar as habilidades que são necessárias para já chegar nos times de desenvolvimento da ZUP se sentindo super capaz. 
 
@@ -25,10 +25,10 @@ A base teórica expande seus horizontes e te faz enxergar o mundo através de no
 
 Entretanto a teoria sozinha não é suficiente para que você de fato consiga aplicar tais ideias quando os cenários aparecerem, você precisa ficar preparado(a) para enxergar as possíveis soluções na hora da necessidade. Para maximizar a chance disso acontecer, é necessário muito treino. 
 
-Existem alguns aspectos muito importantes para que você tenha um treino de qualiddade.
+Existem alguns aspectos importantes para que você tenha um treino de qualiddade.
 
 * Variabilidade -> Precisamos tentar aplicar aquela teoria em cenários diferentes;
-* Repetição -> A repetição faz com que você busque as possíveis de soluções de maneira mais fluida;
+* Repetição -> A repetição faz com que você busque as possíveis soluções de maneira mais fluida;
 * Suporte -> Durante o treino você muitas vezes pode precisar de orientação e o nosso material foi preparado com isso na mente.
 * Aproximação da realidade que será encontrada: O treino precisa te dar a chance de experimentar a realidade em ambientes simulados. 
 
@@ -36,7 +36,7 @@ O treino serve para você **masterizar** uma ou mais habilidades. Essa masteriza
 
 ### O papel da vida real na excelência
 
-Enfim chegamos na vida tal da vida real. Por mais que ela também seja uma fonte de preparo, o principal papel da vida real é você mostrar para si mesmo e para quem está de fora que você é capaz de entregar performance. 
+Enfim chegamos na tal da vida real. Por mais que ela também seja uma fonte de preparo, o principal papel da vida real é você mostrar para si mesmo e para quem está de fora que você é capaz de entregar performance. 
 
 A teoria e o treino te preparam para que, na hora da necessidade, você consiga aumentar suas chances de fazer o necessário em altíssimo nível. 
 
@@ -52,7 +52,7 @@ O estudo e o treino te preparam, a vida real te testa. Os três são importantes
 
 Antes de entrarmos de cabeça no código e tudo mais, é importante que você prepare sua mente, alinhe suas expectativas internas e também tenha conhecimento de algumas formas mais eficientes de ser a sua melhor versão como estudante. 
 
-Para isso é **obrigatório** que você consuma todo material está descrito [aqui](leitura-obrigatoria-preparo-desafios/0-0-1-preparo-aprendizado.md) 
+Para isso é **obrigatório** que você consuma todo material que está descrito [aqui!](leitura-obrigatoria-preparo-desafios/0-0-1-preparo-aprendizado.md) 
 
 ## Sobre a qualidade do código que você vai produzir
 
@@ -60,7 +60,7 @@ O ecossistemas de tecnologias para desenvolver os sistemas mudam de tempos em te
 
 Claro que o primeiro objetivo de qualquer software é funcionar como o esperado, mas logo depois disso vem a necessidade daquele mesmo código ser entendido por outras pessoas, já que provavelmente muitas mãos diferentes vão passar por ali. 
 
-Queremos maximizar sua chance de escrever de excelente qualidade em qualquer situação e, por conta disso, essa necessidade vai acompanhar você em todos os desafios do bootcamp. 
+Queremos maximizar sua chance de escrever códigos de alta qualidade em qualquer situação e, por conta disso, essa necessidade vai acompanhar você em todos os desafios do bootcamp. 
 
 Então, antes de começar a escrever qualquer código no bootcamp, é necessário que você leia, na ordem apresentada, todos os textos que estão presentes nesta pasta [aqui](leitura-obrigatoria-design-codigo/). **As ideias contidas neste material formam a linha mestra do design do código que deve ser produzido durante o bootcamp.** 
 
